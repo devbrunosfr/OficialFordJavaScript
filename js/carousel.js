@@ -70,7 +70,6 @@ class Carousel {
         Carousel.ResetTimer();
     }
 
-    // Vincula o clique das classes .btesquerda e .btdireita
     static InitButtons() {
         const btnEsquerda = document.querySelector('.btesquerda');
         const btnDireita = document.querySelector('.btdireita');
