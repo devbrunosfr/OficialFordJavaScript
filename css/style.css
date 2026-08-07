@@ -26,6 +26,7 @@ html {
     background-color: #FFFFFF;
     opacity: 50%;
     color: inherit;
+    border-radius: 50%;
 }
 
 .carousel-botao img {
@@ -151,6 +152,7 @@ footer div {
 button:hover {
     background: #1b357e;
 }
+
 button {
     background: #1351d8;
     color: #fff;
